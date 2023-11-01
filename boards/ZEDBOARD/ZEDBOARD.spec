@@ -1,0 +1,4 @@
+ARCH_ZEDBOARD := arm
+BSP_ZEDBOARD :=
+BITSTREAM_ZEDBOARD := base.bit
+STAGE4_PACKAGES_ZEDBOARD := pynq ethernet xrt
