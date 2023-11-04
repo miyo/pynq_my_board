@@ -1,0 +1,4 @@
+&sdhci0 {
+    no-1-8-v; /* for 1.0 silicon */
+    disable-wp;
+};

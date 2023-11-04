@@ -1,0 +1,4 @@
+ARCH_TE0802 := aarch64
+BSP_TE0802 :=
+BITSTREAM_TE0802 := base.bit
+STAGE4_PACKAGES_TE0802 := pynq ethernet xrt
