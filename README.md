@@ -7,6 +7,8 @@
   - to make Ethernet available
 - ZCU111
   - to add wp-disable into the device-tree
+- ZCU106
+  - to build with default BSP provieded by Xilinx
 
 ## Assumed Environment
 
